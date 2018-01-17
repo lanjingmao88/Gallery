@@ -1,0 +1,9 @@
+body{width:100%;padding: 0;margin:0;}
+a{color:#000000;text-decoration: none;}
+a:hover{color:#2175BA;}
+a.select{color:#2175BA;}
+.main_img{width:128px;height: 148px;margin: 0 auto;padding:14px 0;}
+.gallery_frame{margin:0 auto;float:left;overflow: auto;}
+.gallery_frame li{list-style-type: none;float:left;padding-right: 20px;}
+.frame_center{justify-content:center;align-items:center;display:-webkit-flex;height:60px;}
+.gallery_text{text-align: center;color:#2175BA;}
